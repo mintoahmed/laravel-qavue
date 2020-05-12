@@ -10,7 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-// 6/2 Done
+// 6/1 Done
 
 Route::get('/', 'QuestionsController@index');
 
